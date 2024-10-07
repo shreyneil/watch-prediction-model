@@ -11,5 +11,3 @@ Run the following command and navigate to the url for UI :
     chromium-browser --disable-web-security --user-data-dir="Path-of-your-choice"
 
 This will resolve the cross orgin acess error while running your application locally.
-
-.
